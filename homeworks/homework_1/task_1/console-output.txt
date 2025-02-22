@@ -29,8 +29,5 @@ Guten tag Scala! This is Ilya Glukhov
 Hello Scala! This is vohkulG aylI
 Hola Scala! This is vohkulG aylI
 Guten tag Scala! This is vohkulG aylI
-name: String = Ilya Glukhov
-PrintGreet: (greet: String, name: String)Unit
-reversedName: String = vohkulG aylI
 
 scala>
